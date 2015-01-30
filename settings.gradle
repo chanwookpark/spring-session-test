@@ -1,0 +1,6 @@
+rootProject.name = 'spring-session-test'
+
+include 'sever1'
+
+include 'server2'
+
