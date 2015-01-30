@@ -1,5 +1,6 @@
 
 초 간단 Spring Session + Redis 샘플.
+
 Spring Session 샘플은 모두 Embedded Redis여서 실제 Redis 설치하고 돌리면 잘 되는지 확인하고 싶었서 만들어 봤습니다..;
 진짜로 되는지를 확인했으니 여러 케이스를 테스트 하는 코드를 좀 더 넣어보도록 하겠습니다.
 
